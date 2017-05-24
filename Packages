@@ -1,0 +1,15 @@
+Package: com.saurik.afc2d_1.2.deb
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: BlackDiesel <blackdsl&icloud.com>
+Depends: firmware (<<8.0) | mobilesubstrate
+Filename: debs//system/com.saurik.afc2d_1.2.deb
+Size: (18114)
+MD5sum: 34291F44D22CFBBF3EB4BAD0ADE3B89C
+SHA1: BDDAF385263B9AAD2B032B2116179F83AFD077CC
+SHA256: 287AC4CE1A6E4095E824FD90F71FED301FF7D9508F1CD2D87A7354053E347A3C
+Section: System
+Description: allow full file-system access over USB
+Author: Jay Freeman (saurik) <email>
+Depiction: http://blackdiesel.github.io/depic/com.saurik.afc2d_1.2/index.html
+Name: (Apple File Conduit "2")

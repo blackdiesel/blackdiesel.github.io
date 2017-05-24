@@ -1,0 +1,9 @@
+Origin: BlackDSL's Repo
+Label: BlackDSL's Repo
+Suite: stable
+Version: 1.0
+Codename: BlackDiesel
+Architectures: iphoneos-arm
+Components: main
+Description: BlackDSL's Repo
+MD5Sum:
