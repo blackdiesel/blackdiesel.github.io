@@ -1,4 +1,4 @@
-Package: com.saurik.afc2d_1.2.deb
+Package: com.saurik.afc2d_1.2
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: BlackDiesel <blackdsl&icloud.com>
@@ -10,6 +10,22 @@ SHA1: BDDAF385263B9AAD2B032B2116179F83AFD077CC
 SHA256: 287AC4CE1A6E4095E824FD90F71FED301FF7D9508F1CD2D87A7354053E347A3C
 Section: System
 Description: allow full file-system access over USB
-Author: Jay Freeman (saurik) <email>
+Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://blackdiesel.github.io/depic/com.saurik.afc2d_1.2/index.html
-Name: (Apple File Conduit "2")
+Name: Apple File Conduit "2"
+
+Package: MobileTerminal_520-2
+Version: 520-2
+Architecture: iphoneos-arm
+Maintainer: BlackDiesel <blackdsl&icloud.com>
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: debs//apps/MobileTerminal_520-2.deb
+Size: (237940)
+MD5sum: FEB84124831B22C8FAC08D76EEE3DF72
+SHA1: BCDD9CE87CB4B43E463B2781352F77CE8AE0BEEC
+SHA256: C03347F1EEA54D5A442F9E12953078DF122D2ADBCE4B1155828FFC3F76DB23B0
+Section: Apps
+Description: A Terminal emulator
+Author: redenfire <saurik@saurik.com>
+Depiction: http://blackdiesel.github.io/depic/mobileterminal_520-2/index.html
+Name: Mobile Terminal
