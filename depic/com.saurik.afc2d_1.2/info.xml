@@ -1,0 +1,35 @@
+<package>
+	<id>com.saurik.afc2d_1.2</id>
+	<name>Full Package</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>winterboard</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Givenchy theme for Zeppelin.</description>
+		<description>Requested by /u/JalenM</description>
+	</descriptionlist>
+		<screenshot>
+			<description>Zeppelin theme</description>
+			<image>givenchyforzeppelin.jpg</image>
+		</screenshot>			
+	</screenshots>
+		<change>Initial release</change>
+	</changelog>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/_Decimation</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/dec1mati0n</url>
+		</link>
+	</links>
+</package>
