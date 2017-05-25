@@ -5,9 +5,9 @@ Maintainer: BlackDiesel <blackdsl@icloud.com>
 Depends: firmware (<<8.0) | mobilesubstrate
 Filename: debs//system/com.saurik.afc2d_1.2.deb
 Size: 18114
-MD5sum: 34291F44D22CFBBF3EB4BAD0ADE3B89C
-SHA1: BDDAF385263B9AAD2B032B2116179F83AFD077CC
-SHA256: 287AC4CE1A6E4095E824FD90F71FED301FF7D9508F1CD2D87A7354053E347A3C
+MD5sum: 34291f44d22cfbbf3eb4Bad0ade3b89c
+SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
+SHA256: 287ac4ce1a6e4095e824fd90f71fed301ff7d9508f1cd2d87a7354053e347a3c
 Section: System
 Description: allow full file-system access over USB
 Author: Jay Freeman (saurik) <saurik@saurik.com>
@@ -21,9 +21,9 @@ Maintainer: BlackDiesel <blackdsl@icloud.com>
 Depends: bash, coreutils, ncurses, system-cmds
 Filename: debs//apps/MobileTerminal_520-2.deb
 Size: 237940
-MD5sum: FEB84124831B22C8FAC08D76EEE3DF72
-SHA1: BCDD9CE87CB4B43E463B2781352F77CE8AE0BEEC
-SHA256: C03347F1EEA54D5A442F9E12953078DF122D2ADBCE4B1155828FFC3F76DB23B0
+MD5sum: feb84124831b22c8fac08d76eee3df72
+SHA1: bcdd9ce87cb4b43e463b2781352f77ce8ae0beec
+SHA256: c03347f1eea54d5a442f9e12953078df122d2adbce4b1155828ffc3f76db23b0
 Section: Apps
 Description: A Terminal emulator
 Author: redenfire <saurik@saurik.com>
